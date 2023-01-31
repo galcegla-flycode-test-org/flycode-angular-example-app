@@ -8,6 +8,6 @@ apps:
     path: ""
     image-resources: true
     text-resources:
-      - path: "*.html"
+      - path: "*.fake"
         format: angular-hardcoded
 
