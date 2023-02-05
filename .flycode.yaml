@@ -11,4 +11,3 @@ apps:
       - path: "*.html"
         format: angular-hardcoded
 
-
