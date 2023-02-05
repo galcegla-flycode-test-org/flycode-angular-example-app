@@ -4,7 +4,7 @@ environments:
     branch: master
     mode: pull-request
 apps:
-  - name: flycode-angular-example-app
+  - name: angular-demo
     path: ""
     image-resources: true
     text-resources:
